@@ -4,7 +4,7 @@
 #
 Name     : clr-bundle-icons
 Version  : 11
-Release  : 12
+Release  : 13
 URL      : http://localhost/cgit/projects/clr-bundle-icons/snapshot/clr-bundle-icons-11.tar.gz
 Source0  : http://localhost/cgit/projects/clr-bundle-icons/snapshot/clr-bundle-icons-11.tar.gz
 Summary  : No detailed summary available
